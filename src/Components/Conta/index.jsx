@@ -6,9 +6,9 @@ import privado from "../../assets/images/privado.svg";
 import olho_icone from "../../assets/images/olho.svg";
 import dinheiro from "../../assets/images/dinheiro.svg";
 
-import { Icon, Box, Button, Details, Balance } from "../UI/index";
+import { IconTheme, Box, Button, Details, Balance } from "../UI/index";
 
-const IconWithMargin = styled(Icon)`
+const IconWithMargin = styled(IconTheme)`
   margin-top: 2px;
 `;
 
